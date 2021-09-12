@@ -5,7 +5,7 @@ import {Howl, Howler} from 'howler';
 import logo from './logo.svg';
 import discord from './assets/discord-50.png';
 import twitter from './assets/twitter-50.png';
-import test from './assets/test.jpg';
+import test from './assets/KONGV4.jpg';
 import scratch from './assets/scratch.svg';
 
 const url = './kong.mp3'
